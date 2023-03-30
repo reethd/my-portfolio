@@ -9,7 +9,7 @@ import {
   Header,
 } from "./components";
 
-import images from "./assets" 
+import images from "./assets";
 
 const projectArray = [
   {
@@ -82,8 +82,8 @@ function App() {
         <Route path="/resume" element={<Resume />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      
-      {/* <Footer /> */}
+
+      <Footer />
     </BrowserRouter>
   );
 }

@@ -152,7 +152,7 @@ header h6{
 
 footer{
   display: flex;
-  /* justify-content: center;  */
+  justify-content: center; 
   background-color: rgba(81,91,100, 0.8);
   width: 100%;
   position: fixed;
@@ -160,7 +160,7 @@ footer{
   left: 0;
 }
 
-footer img{
+.footer-icon{
   width: 30px;
   margin-left: 20px;
 }
