@@ -1,16 +1,24 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.5496c036.css",
-    "main.js": "/my-portfolio/static/js/main.2c6f3a8e.js",
+    "main.js": "/my-portfolio/static/js/main.444ca3d0.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/background-img.jpg": "/my-portfolio/static/media/background-img.32f07b445b534790a623.jpg",
+    "static/media/weatherDash.png": "/my-portfolio/static/media/weatherDash.e0617796c9b568ac2e63.png",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.829fa8693a6696bd341b.pdf",
+    "static/media/ddbb.png": "/my-portfolio/static/media/ddbb.9693d677d5431332addb.png",
+    "static/media/readmeGenerator.png": "/my-portfolio/static/media/readmeGenerator.17e53340639413f41afe.png",
+    "static/media/socialNetwork.png": "/my-portfolio/static/media/socialNetwork.3637a0493df4d13121dd.png",
+    "static/media/employeeTracker.png": "/my-portfolio/static/media/employeeTracker.4f4b0dd50cc41a604598.png",
+    "static/media/everybodyEats.png": "/my-portfolio/static/media/everybodyEats.e2e3eb99860c5f1de615.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "index.html": "/my-portfolio/index.html",
     "main.5496c036.css.map": "/my-portfolio/static/css/main.5496c036.css.map",
-    "main.2c6f3a8e.js.map": "/my-portfolio/static/js/main.2c6f3a8e.js.map",
+    "main.444ca3d0.js.map": "/my-portfolio/static/js/main.444ca3d0.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5496c036.css",
-    "static/js/main.2c6f3a8e.js"
+    "static/js/main.444ca3d0.js"
   ]
 }
