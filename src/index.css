@@ -9,7 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-image: url("../public/background-img.jpg");
+  background-image: url("./assets/background-img.jpg");
   background-size: cover;
 
 }

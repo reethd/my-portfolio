@@ -9,12 +9,14 @@ import {
   Header,
 } from "./components";
 
+import images from "./assets" 
+
 const projectArray = [
   {
     title: "Weather Dashboard",
     description:
       "Deployed website that interacts with OpenWeather API to allow users to view a 5-day forecast based on city.",
-    img: "weatherDash.png",
+    img: images.wd,
     link: "https://reethd.github.io/Weather-Dashboard/",
     repo: "https://github.com/reethd/Weather-Dashboard",
     selected: false,
@@ -23,7 +25,7 @@ const projectArray = [
     title: "Social Network API",
     description:
       "Database built with MongoDB to simulate a social network site complete with users, comments, replies and friends.",
-    img: "socialNetwork.png",
+    img: images.sn,
     link: "",
     repo: "https://github.com/reethd/Social-Network-API",
     selected: false,
@@ -32,7 +34,7 @@ const projectArray = [
     title: "Everybody Eats",
     description:
       "Deployed website that interacts with TheMealDb API to randomly generate a meal, along with a video link to its recipe, based on user input such as category of food or region of origin.",
-    img: "everybodyEats.png",
+    img: images.ee,
     link: "https://kpfranklin22.github.io/Everybody-Eats/",
     repo: "https://github.com/Kpfranklin22/Everybody-Eats",
     selected: false,
@@ -41,7 +43,7 @@ const projectArray = [
     title: "Readme Generator",
     description:
       "Node app that uses the inquirer package to organize and format user input into a professional README.md file",
-    img: "readmeGenerator.png",
+    img: images.rg,
     link: "",
     repo: "https://github.com/reethd/README-generator",
     selected: false,
@@ -50,7 +52,7 @@ const projectArray = [
     title: "Employee Tracker",
     description:
       "Node app that allows a user to interact with a MySQL database to organize, edit and delete employees, their roles, departments, salaries, etc.",
-    img: "employeeTracker.png",
+    img: images.et,
     link: "",
     repo: "https://github.com/reethd/Employee-Tracker",
     selected: false,
@@ -59,7 +61,7 @@ const projectArray = [
     title: "Digital DIY Bulletin Board",
     description:
       "Deployed website that uses MySQL to create a database that authorized users may then update with upcoming events.",
-    img: "ddbb.png",
+    img: images.ddbb,
     link: "https://digital-diy-bulletin-board.herokuapp.com/",
     repo: "https://github.com/Kpfranklin22/digital-diy-bulletin-board",
     selected: false,
