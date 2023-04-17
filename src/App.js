@@ -73,7 +73,6 @@ const projectArray = [
     link: "https://free-school-706.herokuapp.com/",
     repo: "https://github.com/reethd/free-school",
     selected: false,
-
   }
 ];
 
