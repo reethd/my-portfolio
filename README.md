@@ -1,6 +1,9 @@
 
   # Reeth Dasgupta Developer Portfolio
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  
+  ![image](https://user-images.githubusercontent.com/115037176/228909574-667265ed-0bf1-4e0b-9cb2-a9cbafbe85d0.png)
+
 
   ## Table of Contents
   - [Description](#description)
