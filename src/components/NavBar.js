@@ -11,7 +11,7 @@ const NavBar = () => {
         <NavLink
           currentPage={currentPage}
           setCurrentPage={setCurrentPage}
-          linkTo="/"
+          linkTo="/my-portfolio"
           name="About"
         />
         <NavLink

@@ -66,6 +66,15 @@ const projectArray = [
     repo: "https://github.com/Kpfranklin22/digital-diy-bulletin-board",
     selected: false,
   },
+  {
+    title: "Free School",
+    description: "Deployed website to be used as a schedule with RSVP functionality for Athens Free School. Allows Teachers and students to sign up for and create classes and to get an idea for who will be there with contact info.",
+    img: images.fs,
+    link: "https://free-school-706.herokuapp.com/",
+    repo: "https://github.com/reethd/free-school",
+    selected: false,
+
+  }
 ];
 
 function App() {
@@ -74,7 +83,7 @@ function App() {
       <Header />
       <NavBar />
       <Routes>
-        <Route path="/" element={<About />} />
+        <Route path="/my-portfolio" element={<About />} />
         <Route
           path="/portfolio"
           element={<Portfolio projectArray={projectArray} />}

@@ -1,5 +1,4 @@
 import React from 'react'
-import { useState } from 'react';
 
 const ProjectCard = ({project}) => {
 
@@ -7,7 +6,7 @@ const ProjectCard = ({project}) => {
   return (
     <div className="project-card center">
       <h5 className='center'>{project.title}</h5>
-      <img  src={project.img}/>
+      <img  src={project.img} alt={project.title}/>
       <p>{project.description}</p>
       <div className="project-links">
       <p><a href={project.repo} className="btn">Github Link</a></p>

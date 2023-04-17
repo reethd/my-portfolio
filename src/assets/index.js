@@ -8,7 +8,8 @@ import rg from "./readmeGenerator.png";
 import re from "./resume.pdf";
 import sn from "./socialNetwork.png";
 import wd from "./weatherDash.png";
+import fs from "./freeschool.png"
 
-const images = { bg, ddbb, et, ee, gh, li, rg, re, sn, wd };
+const images = { bg, ddbb, et, ee, gh, li, rg, re, sn, wd, fs };
 
 export default images;
